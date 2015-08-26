@@ -1,5 +1,8 @@
-== README
+#Micro-Reddit Mini Project
+
 Completed as part of <a href="http://www.theodinproject.com/ruby-on-rails/building-with-active-record?ref=lnav">The Odin Project</a>
+
+Brief Instructions:
 
 Let's build Reddit. Well, maybe a very junior version of it called 
 micro-reddit. In this project, you'll build the data structures necessary 
